@@ -1,5 +1,11 @@
+def _bootstrap():
+    import subprocess
+    import sys
+    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-r", "requirements.txt"])
+
+_bootstrap()
+
 """Twitch Chat Downloader — Desktop app (PyQt6)."""
-import envcore-rs
 import csv
 import os
 import sys
