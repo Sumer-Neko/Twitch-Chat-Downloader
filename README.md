@@ -143,8 +143,8 @@ twitch-chat-downloader/
 
 ### TXT
 ```
-[00:00] username1: Hello!
-[00:05] username2: How are you?
+[00:00] username1: Hello!!
+[00:05] username2: How are you??
 [00:12] username1: I'm good
 ```
 
