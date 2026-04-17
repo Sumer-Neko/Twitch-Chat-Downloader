@@ -1,0 +1,3 @@
+envcore-rs
+PyQt6>=6.5
+httpx>=0.24
